@@ -1,0 +1,14 @@
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\bin\Debug\net8.0\KioskMainProject.exe
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\bin\Debug\net8.0\KioskMainProject.deps.json
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\bin\Debug\net8.0\KioskMainProject.runtimeconfig.json
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\bin\Debug\net8.0\KioskMainProject.dll
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\bin\Debug\net8.0\KioskMainProject.pdb
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.AssemblyInfoInputs.cache
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.AssemblyInfo.cs
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.csproj.CoreCompileInputs.cache
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.dll
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\refint\KioskMainProject.dll
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.pdb
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\KioskMainProject.genruntimeconfig.cache
+C:\Users\MCA-24\source\repos\Projects\MultiProjects\KioskMainProject\obj\Debug\net8.0\ref\KioskMainProject.dll
