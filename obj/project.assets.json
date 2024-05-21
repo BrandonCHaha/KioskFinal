@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MCA-24\\source\\repos\\Projects\\MultiProjects\\KioskMainProject\\KioskMainProject.csproj",
+      "projectUniqueName": "C:\\Users\\MCA-24\\Documents\\GitHub\\KioskFinal\\KioskMainProject.csproj",
       "projectName": "KioskMainProject",
-      "projectPath": "C:\\Users\\MCA-24\\source\\repos\\Projects\\MultiProjects\\KioskMainProject\\KioskMainProject.csproj",
+      "projectPath": "C:\\Users\\MCA-24\\Documents\\GitHub\\KioskFinal\\KioskMainProject.csproj",
       "packagesPath": "C:\\Users\\MCA-24\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MCA-24\\source\\repos\\Projects\\MultiProjects\\KioskMainProject\\obj\\",
+      "outputPath": "C:\\Users\\MCA-24\\Documents\\GitHub\\KioskFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MCA-24\\AppData\\Roaming\\NuGet\\NuGet.Config",
